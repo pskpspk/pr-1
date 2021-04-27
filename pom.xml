@@ -5,7 +5,7 @@
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.companyname.projectgroup</groupId>
 <artifactId>project</artifactId>
-<version>1.0 file</version>
+<version>2.0 file</version>
 <build>
 <plugins>
    <plugin>
